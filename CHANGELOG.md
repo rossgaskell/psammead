@@ -3,6 +3,7 @@
 <!-- prettier-ignore -->
 | Version | Description |
 |---------|-------------|
+| 2.3.5 | [PR#3735](https://github.com/bbc/psammead/pull/3735) Talos - Bump Dependencies - @bbc/psammead-bulleted-list |
 | 2.3.4 | [PR#3725](https://github.com/bbc/psammead/pull/3725) Minor & patch package updates |
 | 2.3.3 | [PR#3734](https://github.com/bbc/psammead/pull/3734) Bumping dev dependencies |
 | 2.3.2 | [PR#3661](https://github.com/bbc/psammead/pull/3661) Adding a Maintainers file |
